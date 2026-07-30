@@ -1,0 +1,6 @@
+{
+  "name": "TalentForge",
+  "description": "Intelligent Resume Screening & Candidate Matching Platform featuring automated resume parsing, NLP skill normalization, semantic JD compatibility scoring, bias mitigation, candidate ranking, interview assistant, and recruiter copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
