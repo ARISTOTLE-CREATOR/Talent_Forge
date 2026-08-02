@@ -61,7 +61,6 @@ The system compares every candidate against the job requirements and calculates:
 
 - Overall Match Score
 - Skills Match
-- Experience Match
 - Education Match
 - Professional Impact Score
 
@@ -130,7 +129,6 @@ TalentForge automatically generates personalized interview questions with:
 - Behavioral Questions
 - Problem Solving Questions
 - Purpose of Each Question
-- Good Answer Indicators
 
 Helping interviewers conduct more structured interviews.
 
